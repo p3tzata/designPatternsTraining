@@ -10,7 +10,4 @@ public class Door {
 	void closeDoor( ) {
 		System.out.println("Door is closing");
 	}
-	
-	
-
 }

@@ -14,9 +14,5 @@ public class DoorCloseCommand implements Command{
 		door.closeDoor();
 		
 	}
-	
-	
-	
-	
-	
+
 }
