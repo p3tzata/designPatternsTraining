@@ -1,4 +1,4 @@
-package composite;
+package composite.compositeIterator;
 
 import java.util.Iterator;
 import java.util.Stack;
